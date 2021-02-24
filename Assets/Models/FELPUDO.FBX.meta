@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 787eda358707d8f4f8fd03315b595b1c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FELPUDO_BONE_ASA_DIR01
+    100004: FELPUDO_BONE_ASA_DIR02
+    100006: FELPUDO_BONE_ASA_DIR03
+    100008: FELPUDO_BONE_ASA_ESQ01
+    100010: FELPUDO_BONE_ASA_ESQ02
+    100012: FELPUDO_BONE_ASA_ESQ03
+    100014: FELPUDO_BONE_CAUDA01
+    100016: FELPUDO_BONE_CAUDA02
+    100018: FELPUDO_BONE_CAUDA03
+    100020: FELPUDO_BONE_GRAVATA01
+    100022: FELPUDO_BONE_GRAVATA02
+    100024: FELPUDO_BONE_GRAVATA03
+    100026: FELPUDO_BONE_GRAVATA04
+    100028: FELPUDO_BONE_PATA_DIR01
+    100030: FELPUDO_BONE_PATA_DIR02
+    100032: FELPUDO_BONE_PATA_DIR03
+    100034: FELPUDO_BONE_PATA_DIR04
+    100036: FELPUDO_BONE_PATA_ESQ01
+    100038: FELPUDO_BONE_PATA_ESQ02
+    100040: FELPUDO_BONE_PATA_ESQ03
+    100042: FELPUDO_BONE_PATA_ESQ04
+    100044: FELPUDO_BONE_SPINE
+    100046: FELPUDO_CORPO
+    100048: FELPUDO_OLHO_DIR
+    100050: FELPUDO_OLHO_ESQ
+    100052: FELPUDO_SOBR_DIR
+    100054: FELPUDO_SOBR_ESQ
+    400000: //RootNode
+    400002: FELPUDO_BONE_ASA_DIR01
+    400004: FELPUDO_BONE_ASA_DIR02
+    400006: FELPUDO_BONE_ASA_DIR03
+    400008: FELPUDO_BONE_ASA_ESQ01
+    400010: FELPUDO_BONE_ASA_ESQ02
+    400012: FELPUDO_BONE_ASA_ESQ03
+    400014: FELPUDO_BONE_CAUDA01
+    400016: FELPUDO_BONE_CAUDA02
+    400018: FELPUDO_BONE_CAUDA03
+    400020: FELPUDO_BONE_GRAVATA01
+    400022: FELPUDO_BONE_GRAVATA02
+    400024: FELPUDO_BONE_GRAVATA03
+    400026: FELPUDO_BONE_GRAVATA04
+    400028: FELPUDO_BONE_PATA_DIR01
+    400030: FELPUDO_BONE_PATA_DIR02
+    400032: FELPUDO_BONE_PATA_DIR03
+    400034: FELPUDO_BONE_PATA_DIR04
+    400036: FELPUDO_BONE_PATA_ESQ01
+    400038: FELPUDO_BONE_PATA_ESQ02
+    400040: FELPUDO_BONE_PATA_ESQ03
+    400042: FELPUDO_BONE_PATA_ESQ04
+    400044: FELPUDO_BONE_SPINE
+    400046: FELPUDO_CORPO
+    400048: FELPUDO_OLHO_DIR
+    400050: FELPUDO_OLHO_ESQ
+    400052: FELPUDO_SOBR_DIR
+    400054: FELPUDO_SOBR_ESQ
+    2100000: 'Material #8'
+    2100002: 'Material #9'
+    2100004: 'Material #11'
+    2100006: 'Material #10'
+    2100008: 'Material #12'
+    2300000: FELPUDO_OLHO_DIR
+    2300002: FELPUDO_OLHO_ESQ
+    2300004: FELPUDO_SOBR_DIR
+    2300006: FELPUDO_SOBR_ESQ
+    3300000: FELPUDO_OLHO_DIR
+    3300002: FELPUDO_OLHO_ESQ
+    3300004: FELPUDO_SOBR_DIR
+    3300006: FELPUDO_SOBR_ESQ
+    4300000: FELPUDO_CORPO
+    4300002: FELPUDO_OLHO_ESQ
+    4300004: FELPUDO_SOBR_ESQ
+    4300006: FELPUDO_OLHO_DIR
+    4300008: FELPUDO_SOBR_DIR
+    7400000: loopVoando
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: FELPUDO_CORPO
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: loopVoando
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
